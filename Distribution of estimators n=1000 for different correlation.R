@@ -1,6 +1,6 @@
 
 
-#### DISTRIBUTION FOR ESTIMATORS "n=200"####
+#### DISTRIBUTION FOR ESTIMATORS "n=1000"####
 ##### different correlation (ρ=0, ρ=.5, ρ=.8)
 
 ######Distribution for ρ=0
