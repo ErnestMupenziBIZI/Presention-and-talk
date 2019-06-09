@@ -1,5 +1,5 @@
 ##PROJECT###   "Adjusting for multiple test when endpoints are correlated"
-###METHOD###    "Plug in estimated correlation with sample size n=50"
+###METHOD###    "Berger and Boos with sample size n=50"
 ##################################################################################
 ##################################################################################
 
